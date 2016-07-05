@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[We Came To Thrive]]></title>
         <description><![CDATA[We Came To Thrive]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eye-to-the-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 18:39:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jul 2016 19:31:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eye-to-the-world/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome. I am grateful to have you join us. Eye to the World is all about Inspiration & Empowerment as well as Celebration of Diverse Culture and Realizing our Dreams. I am pleased to Welcome you to Our Journey together. A Journey where we learn about the world and are inspired by Universal Wonder & what it can mean to Dream. A place where we opt to be ignited to Believe in Who We Love to Be and acknowledge that we can be healthy in all aspects of what it means to be Alive. You see, Life is about Living. Living In the Moment, and ideally, WITH MEANING. With reverence and respect for Life and the fragrance of valuing the present moment and opportunities that arise.</p>]]></description>
+            <link>https://thegrid.ai/eye-to-the-world/welcome-i-am-grateful-to-have-you-join-us-eye-to-the-worl/index.html</link>
+            <guid isPermaLink="false">655bf500-c682-4be6-af63-5496a739659a</guid>
+            <pubDate>Tue, 05 Jul 2016 19:31:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0b2b21d-0f93-425c-b95f-121429254f57.jpg">]]></description>
-            <link>undefinedeye-believe-in-the-good-the-potential-of-ourselves-and-the-wo/index.html</link>
+            <link>https://thegrid.ai/eye-to-the-world/eye-believe-in-the-good-the-potential-of-ourselves-and-the-wo/index.html</link>
             <guid isPermaLink="false">39ed7cbd-6594-4398-928b-4776d22ce823</guid>
             <pubDate>Tue, 05 Jul 2016 18:39:36 GMT</pubDate>
         </item>
