@@ -2,12 +2,13 @@ name: Eye To The World
 favicon: null
 layout_spectrum: 0.364445622311905
 typography_spectrum: 0.9130053329281509
+title: We Came To Thrive
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: "\t50.63.202.52"
   facebook: null
   twitter: null
 opengraph:
