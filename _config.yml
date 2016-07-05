@@ -1,0 +1,28 @@
+name: Eye To The World
+favicon: null
+layout_spectrum: 0.364445622311905
+typography_spectrum: 0.9130053329281509
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3890134624671191
+  lightness: 0.05764238350093365
+  saturation: 0.22003324329853058
+  rhythmicContrast: 0.18810613732784986
+purpose: []
