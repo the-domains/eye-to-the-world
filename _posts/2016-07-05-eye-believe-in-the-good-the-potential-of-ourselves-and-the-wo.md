@@ -4,24 +4,30 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Eye Believe in The Good; The Potential of Ourselves & The World
-datePublished: '2016-07-05T18:39:36.667Z'
-dateModified: '2016-07-05T18:38:45.222Z'
+description: Eye Believe in The Good
+datePublished: '2016-07-06T14:20:20.772Z'
+dateModified: '2016-07-06T14:19:50.020Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-07-05-eye-believe-in-the-good-the-potential-of-ourselves-and-the-wo.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-07-05-eye-believe-in-the-good-the-potential-of-ourselves-and-the-wo.md
 url: eye-believe-in-the-good-the-potential-of-ourselves-and-the-wo/index.html
 _type: Article
 
 ---
-Eye Believe in The Good; The Potential of Ourselves & The World
+Eye Believe in The Good
+
+Eye Believe in Potential
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb83db40-7a30-4169-a1bf-5264632222d7.jpg)
 
-Eye Believe in Dreams & Therefore Eye Believe in Making Time to Dream
+Eye Believe in Dreams 
+
+& Therefore 
+
+Eye Believe in Making Time to Dream
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0b2b21d-0f93-425c-b95f-121429254f57.jpg)
 
 My Dream Began with an Ignition; Writing Poetry, Getting Honest with my Intentions
