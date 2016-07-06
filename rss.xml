@@ -4,8 +4,15 @@
         <description><![CDATA[We Came To Thrive]]></description>
         <link>https://thegrid.ai/eye-to-the-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 14:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 14:20:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eye-to-the-world/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0b2b21d-0f93-425c-b95f-121429254f57.jpg">]]></description>
+            <link>https://thegrid.ai/eye-to-the-world/eye-believe-in-the-good-the-potential-of-ourselves-and-the-wo/index.html</link>
+            <guid isPermaLink="false">39ed7cbd-6594-4398-928b-4776d22ce823</guid>
+            <pubDate>Wed, 06 Jul 2016 14:20:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8c09562-178b-4ea1-9e23-efd35700a101.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/eye-to-the-world/welcome-i-am-grateful-to-have-you-join-us-eye-to-the-worl/index.html</link>
             <guid isPermaLink="false">655bf500-c682-4be6-af63-5496a739659a</guid>
             <pubDate>Tue, 05 Jul 2016 19:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0b2b21d-0f93-425c-b95f-121429254f57.jpg">]]></description>
-            <link>https://thegrid.ai/eye-to-the-world/eye-believe-in-the-good-the-potential-of-ourselves-and-the-wo/index.html</link>
-            <guid isPermaLink="false">39ed7cbd-6594-4398-928b-4776d22ce823</guid>
-            <pubDate>Tue, 05 Jul 2016 18:39:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
