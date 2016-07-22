@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Eye Believe in The Good
-datePublished: '2016-07-22T17:04:23.374Z'
-dateModified: '2016-07-22T17:04:18.427Z'
+datePublished: '2016-07-22T17:06:20.035Z'
+dateModified: '2016-07-22T17:05:52.512Z'
 title: JocelynAnnaLernout.com
 author:
   - name: ''
@@ -41,7 +41,7 @@ My Dream Began with an Ignition; Writing Poetry, Getting Honest with my Intentio
 It was fueled with inspiration and happenenings that I believed in, and opened myself to.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f982ada3-8fe5-4fc8-b96d-86bf62322f88.jpg)
 
-Today, I feel Empowered. I am on a Mission to Share What I have come to understand about the world, the awesomeness and profoundness of the Universe; and what it means to Live and Believe in, A Dream
+Today, I feel Empowered to Share What I have come to understand about the world, the awesomeness and profoundness of the Universe; and what it means to Live and Believe in, A Dream
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58ace0e7-cbf8-490f-86d7-0d14fc451f93.jpg)
 
 4 The World of One Dream: Ignite with Passion & Live Inspirationally, 4 the Empowerment of Ourself, and Eachother
