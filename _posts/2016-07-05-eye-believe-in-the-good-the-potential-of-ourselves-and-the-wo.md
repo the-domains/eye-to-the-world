@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Eye Believe in The Good
-datePublished: '2016-07-22T17:01:26.749Z'
-dateModified: '2016-07-22T17:01:10.345Z'
+datePublished: '2016-07-22T17:04:23.374Z'
+dateModified: '2016-07-22T17:04:18.427Z'
 title: JocelynAnnaLernout.com
 author:
   - name: ''
@@ -16,9 +16,9 @@ sourcePath: >-
 via: {}
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: jocelynannalernout.com
   favicon: null
 starred: true
 url: eye-believe-in-the-good-the-potential-of-ourselves-and-the-wo/index.html
