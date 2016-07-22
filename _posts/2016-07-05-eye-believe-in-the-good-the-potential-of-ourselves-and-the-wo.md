@@ -5,14 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Eye Believe in The Good
-datePublished: '2016-07-15T21:12:00.298Z'
-dateModified: '2016-07-15T21:11:46.157Z'
-title: ''
-author: []
+datePublished: '2016-07-22T16:56:39.339Z'
+dateModified: '2016-07-22T16:54:40.251Z'
+title: JocelynAnnaLernout.com
+author:
+  - name: ''
+    url: ''
 sourcePath: >-
   _posts/2016-07-05-eye-believe-in-the-good-the-potential-of-ourselves-and-the-wo.md
+via: {}
 authors: []
-publisher: null
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: eye-believe-in-the-good-the-potential-of-ourselves-and-the-wo/index.html
 _type: Article
@@ -46,8 +53,13 @@ UC-\>UR (You See; You ARE)
 
 United Culture & Universal REALities 
 
-Welcome: This is an intiative 4 THE WORLD OF ONE DREAM: CP4
+Welcome: This is an intiative 4 THE WORLD OF ONE DREAM: 
 
-Come Unity Community & Cultural Celebration among the Path of Purpose, Passion & Potential
+Come Unity & Cultural Celebration among the Path of 'Pursuit of Passions: Dreams 2 REALity'
 
-Seizing Mastery of Intentions; and Fulfilling Our Lives Through Health in Body, Mins, Spirit & Reverence for Aliveness; Living Fully ALIVE
+Seizing Mastery of Intentions; and Fulfilling Our Lives Through Health in Body, Mind, Spirit & Reverence for Aliveness
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b5bcdf5-13bb-46ee-8e70-dda24b6dc5c2.jpg)
+
+[Living Fully ALIVE ][0]
+
+[0]: https://www.youtube.com/watch?v=WbrV0LVDD68
