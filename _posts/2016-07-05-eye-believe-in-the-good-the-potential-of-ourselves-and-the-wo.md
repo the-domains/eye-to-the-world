@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Eye Believe in The Good
-datePublished: '2016-07-22T16:56:39.339Z'
-dateModified: '2016-07-22T16:54:40.251Z'
+datePublished: '2016-07-22T17:01:26.749Z'
+dateModified: '2016-07-22T17:01:10.345Z'
 title: JocelynAnnaLernout.com
 author:
   - name: ''
@@ -44,14 +44,14 @@ It was fueled with inspiration and happenenings that I believed in, and opened m
 Today, I feel Empowered. I am on a Mission to Share What I have come to understand about the world, the awesomeness and profoundness of the Universe; and what it means to Live and Believe in, A Dream
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58ace0e7-cbf8-490f-86d7-0d14fc451f93.jpg)
 
-4 The World of One Dream: Ignite with Purpose, Passion & Potential, Live Inspirationally, 4 the Empowerment of Ourself, and Eachother
+4 The World of One Dream: Ignite with Passion & Live Inspirationally, 4 the Empowerment of Ourself, and Eachother
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dba4d46d-6fd2-4317-bc93-1a6ebfb3648e.jpg)
 
 EYE SEE YOU. 
 
-UC-\>UR (You See; You ARE)
+UC --\> UR (You See; You ARE)
 
-United Culture & Universal REALities 
+United Culture \* Universal REALities 
 
 Welcome: This is an intiative 4 THE WORLD OF ONE DREAM: 
 
