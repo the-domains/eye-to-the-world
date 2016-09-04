@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: 'Stay '
+  - name: Stay Connected
     url: 'https://about.me/cultureme'
     type: external
 favicon: null
