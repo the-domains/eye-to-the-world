@@ -1,20 +1,4 @@
-name: Eye To The World
-favicon: null
-layout_spectrum: 0.364445622311905
 typography_spectrum: 0.9130053329281509
-title: We Came To Thrive
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: 52.32.215.222
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,24 @@ color:
   lightness: 0.05764238350093365
   saturation: 0.22003324329853058
   rhythmicContrast: 0.18810613732784986
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.364445622311905
+analytics:
+  google: 52.32.215.222
+  facebook: null
+  twitter: null
+name: Eye To The World
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 'Stay '
+    url: 'https://about.me/cultureme'
+    type: external
+favicon: null
+title: We Came To Thrive
 purpose: []
